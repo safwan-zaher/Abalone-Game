@@ -19,7 +19,7 @@ Welcome to **Abalone**, a classic strategy game reimagined with advanced Artific
 ### 🧠 **Advanced AI**
 - **Minimax Algorithm** ♟️: Implements strategic depth and decision-making.
 - **Alpha-Beta Pruning** ✂️: Speeds up AI computations.
-- **A* Algorithm** 🌟: Optimizes marble movement paths.
+- **Astar Algorithm** 🌟: Optimizes marble movement paths.
 - **Fuzzy Logic** 🔮: Adds nuanced decision-making based on game state.
 - **Genetic Algorithm** 🧬: Evolves AI strategies for enhanced gameplay.
 
@@ -87,13 +87,13 @@ Welcome to **Abalone**, a classic strategy game reimagined with advanced Artific
 ## 🖼️ **Screenshots**
 
 ### Main Menu 🎉
-![Main Menu](path/to/menu_image.png)
+![Main Menu](1_UI.png)
 
 ### Game Board ⚔️
-![Game Board](path/to/board_image.png)
+![Game Board](2_UI_NEWGAME.png)
 
 ### Settings ⚙️
-![Settings](path/to/settings_image.png)
+![Settings](2_UI_SETTINGS.png)
 
 ---
 
